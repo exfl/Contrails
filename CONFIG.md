@@ -16,13 +16,14 @@ pathtonowhere
 > This is the description of the feed.
 
 JP: 無期迷途ポストを表示します。  
+
 EN: Displaying Pathtonowhere posts.
 
-Include:  
-無期迷途 or PathtoNowhere or 无期迷途 or 무기미도 or #PTN
 
-Exclude:  
-#NoFeeds or #Private
+Include: 無期迷途 or PathtoNowhere or 无期迷途 or 무기미도 or #PTN
+
+Exclude: #NoFeeds or #Private
+
 
 * This feed is Unofficial
 
