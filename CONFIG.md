@@ -21,7 +21,7 @@ Displaying Pathtonowhere posts.
 [Include] 無期迷途 or PathtoNowhere or 无期迷途 or 무기미도 or #PTN    
 [Exclude] #NoFeeds or #Private    
 
-\r\n(* This feed is Unofficial)
+(* This feed is Unofficial)
 
 
 # searchTerms
