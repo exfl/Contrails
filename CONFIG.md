@@ -18,10 +18,10 @@ pathtonowhere
 JP: 無期迷途ポストを表示します。  
 EN: Displaying Pathtonowhere posts.
 
-Include:   
+Include:  
 無期迷途 or PathtoNowhere or 无期迷途 or 무기미도 or #PTN
 
-Exclude:   
+Exclude:  
 #NoFeeds or #Private
 
 * This feed is Unofficial
