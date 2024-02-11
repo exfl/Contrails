@@ -15,13 +15,15 @@ pathtonowhere
 
 > This is the description of the feed.
 
-無期迷途ポストを表示します。  
-Displaying Pathtonowhere posts.    
+無期迷途のポストを表示します。遡る日数に制限はありません。
 
-[Include] 無期迷途 or PathtoNowhere or 无期迷途 or 무기미도 or #PTN    
-[Exclude] #NoFeeds or #Private    
+【含む】無期迷途, PathtoNowhere, 无期迷途, 무기미도, #PTN
+【除外】#NoFeeds, #Private
 
-(* This feed is Unofficial)
+(* 非公式フィードです)
+
+最近不安定なのでSkyFeed版も作りました。活用ください（直近7日間のみです）
+https://staging.bsky.app/profile/did:plc:p6xjmwolxplpnxsasobr2vwd/feed/aaala6yweph76
 
 
 # searchTerms
