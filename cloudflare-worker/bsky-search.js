@@ -1,20 +1,27 @@
 import { fetchGuarded } from "./bsky-fetch-guarded";
 
-export async function searchPost(searchTerm, params) {
+export async function searchPost(searchTerm, params,accessJwt) {
   let urlParams = {
     q: searchTerm,
   };
   if (params.count !== undefined) {
-    urlParams.count = params.count;
+    urlParams.limit = params.count;
   }
   if (params.offset !== undefined) {
-    urlParams.offset = params.offset;
+    urlParams.cursor = params.offset;
   }
   let url =
-    "https://search.bsky.social/search/posts?" + new URLSearchParams(urlParams);
-  let response = await fetchGuarded(url);
+    "https://bsky.social/xrpc/app.bsky.feed.searchPosts?" + new URLSearchParams(urlParams);
+
+  let response = await fetchGuarded(url, {
+    headers: {
+      Authorization: `Bearer ${accessJwt}`,
+    },
+  })
+
   if (response !== null) {
-    return response.json();
+    let resbody = await response.json();
+    return resbody;
   } else {
     return null;
   }
