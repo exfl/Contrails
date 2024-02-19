@@ -142,6 +142,8 @@ def parse_config(dirname, markdown_contents):
     flat_keys = [key for key in config.keys() if key not in LIST_KEYS]
     for key in flat_keys:
         config[key] = " ".join(config[key])
+    if "description" in config:
+        config["description"] = aaa
     if "searchTerms" in config:
         config["searchTerms"] = render_search_terms(config["searchTerms"])
     if "avatar" in config:
