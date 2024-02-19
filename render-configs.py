@@ -143,7 +143,7 @@ def parse_config(dirname, markdown_contents):
     for key in flat_keys:
         config[key] = " ".join(config[key])
     if "description" in config:
-        config["description"] = config["description"].replace("<br>", "\\n")
+        config["description"] = config["description"].replace("<br>", "\u000a")
     if "searchTerms" in config:
         config["searchTerms"] = render_search_terms(config["searchTerms"])
     if "avatar" in config:
