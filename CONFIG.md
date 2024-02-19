@@ -2,14 +2,15 @@
 # recordName
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
+> dev
 
-dev
+test2
 
 # displayName
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-test2
+emotional-suppo
 
 # description
 
