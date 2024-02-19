@@ -19,7 +19,8 @@ test
 
 > This is the description of the feed.
 
-無期迷途のポストを表示します。7日以上前のポストも拾います。<br><br>[含む] 無期迷途 or PathtoNowhere or 无期迷途 or 무기미도 or #PTN<br>[除外] #NoFeeds or #Private<br><br>(* 非公式フィードです)<br><br>もし不安定な場合はSkyFeed版も活用ください（こちらは直近7日間のみです）<br>https://bsky.app/profile/did:plc:p6xjmwolxplpnxsasobr2vwd/feed/aaala6yweph76<br><br>--------------------<br><br>Displaying PathToNowhere posts. Picks up posts older than 7 days.<br><br>[INCLUDES] 無期迷途 or PathtoNowhere or 无期迷途 or 무기미도 or #PTN<br>[EXCLUDES] #NoFeeds or #Private<br><br>(* This feed is unofficial.)<br><br>If unstable, consider using the SkyFeed version (limited to the past 7 days).<br>https://bsky.app/profile/did:plc:p6xjmwolxplpnxsasobr2vwd/feed/aaala6yweph76
+無期迷途のポストを表示します。<br>含む: 無期迷途, PathtoNowhere, 无期迷途, 무기미도, #PTN<br>除外: #NoFeeds, #Private<br><br>もし不安定な時はSkyFeed版も活用ください（こちらは直近7日間のみ）<br>https://bsky.app/profile/did:plc:p6xjmwolxplpnxsasobr2vwd/feed/aaala6yweph76<br><br>--------------------<br><br>Displaying PathToNowhere posts.<br>Includes: 無期迷途, PathtoNowhere, 无期迷途, 무기미도, #PTN<br>Excludes: #NoFeeds, #Private<br><br>If it's unstable, try the SkyFeed version (last 7days).<br>https://bsky.app/profile/did:plc:p6xjmwolxplpnxsasobr2vwd/feed/aaala6yweph76
+
 
 
 # searchTerms
