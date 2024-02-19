@@ -5,17 +5,21 @@
 
 dev
 
+
+
 # displayName
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
 test
 
+
+
 # description
 
 > This is the description of the feed.
 
-無期迷途のポストを表示します。<br><br>[含む] 無期迷途 or PathtoNowhere or 无期迷途 or 무기미도 or #PTN<br>[除外] #NoFeeds or #Private<br><br>(* 非公式フィードです)<br><br>最近不安定なので、SkyFeed版も活用ください（直近7日間のみです）<br>https://bsky.app/profile/did:plc:p6xjmwolxplpnxsasobr2vwd/feed/aaala6yweph76
+無期迷途のポストを表示します。7日以上前のポストも拾います。<br><br>[含む] 無期迷途 or PathtoNowhere or 无期迷途 or 무기미도 or #PTN<br>[除外] #NoFeeds or #Private<br><br>(* 非公式フィードです)<br><br>もし不安定な場合はSkyFeed版も活用ください（こちらは直近7日間のみです）<br>https://bsky.app/profile/did:plc:p6xjmwolxplpnxsasobr2vwd/feed/aaala6yweph76<br><br>--------------------<br><br>Displaying PathToNowhere posts. Picks up posts older than 7 days.<br><br>[INCLUDES] 無期迷途 or PathtoNowhere or 无期迷途 or 무기미도 or #PTN<br>[EXCLUDES] #NoFeeds or #Private<br><br>(* This feed is unofficial.)<br><br>If unstable, consider using the SkyFeed version (limited to the past 7 days).<br>https://bsky.app/profile/did:plc:p6xjmwolxplpnxsasobr2vwd/feed/aaala6yweph76
 
 
 # searchTerms
@@ -32,6 +36,8 @@ test
 - 무기미도
 - #PTN
 
+
+
 # denyList
 
 > Deny list will exclude any results from a given user. You can provide the username or DID.
@@ -41,7 +47,8 @@ test
 
 - #NoFeeds
 - #Private
-- 
+
+
 
 # safeMode
 
