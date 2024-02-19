@@ -15,15 +15,7 @@ test
 
 > This is the description of the feed.
 
-無期迷途のポストを表示します。<br>
-<br>
-[含む] 無期迷途 or PathtoNowhere or 无期迷途 or 무기미도 or #PTN<br>
-[除外] #NoFeeds or #Private<br>
-<br>
-(* 非公式フィードです)<br>
-<br>
-最近不安定なので、SkyFeed版も活用ください（直近7日間のみです）<br>
-https://bsky.app/profile/did:plc:p6xjmwolxplpnxsasobr2vwd/feed/aaala6yweph76
+無期迷途のポストを表示します。<br><br>[含む] 無期迷途 or PathtoNowhere or 无期迷途 or 무기미도 or #PTN<br>[除外] #NoFeeds or #Private<br><br>(* 非公式フィードです)<br><br>最近不安定なので、SkyFeed版も活用ください（直近7日間のみです）<br>https://bsky.app/profile/did:plc:p6xjmwolxplpnxsasobr2vwd/feed/aaala6yweph76
 
 
 # searchTerms
