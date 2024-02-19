@@ -5,25 +5,22 @@
 
 pathtonowhere
 
+
+
 # displayName
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
 無期迷途 - PTN
 
+
+
 # description
 
 > This is the description of the feed.
 
-無期迷途のポストを表示します。　
-　
-[含む] 無期迷途 or PathtoNowhere or 无期迷途 or 무기미도 or #PTN　
-[除外] #NoFeeds or #Private　
-　
-(* 非公式フィードです)　
-　
-最近不安定なので、SkyFeed版も活用ください（直近7日間のみです）　
-https://bsky.app/profile/did:plc:p6xjmwolxplpnxsasobr2vwd/feed/aaala6yweph76
+無期迷途のポストを表示します。<br><br>➕含む：無期迷途, PathtoNowhere, 无期迷途, 무기미도, #PTN<br>➖除外：#NoFeeds, #Private<br><br>もし不安定な時はSkyFeed版も活用ください（こちらは直近7日間のみ）<br>https://bsky.app/profile/did:plc:p6xjmwolxplpnxsasobr2vwd/feed/aaala6yweph76<br><br>(* 非公式フィードです)
+
 
 
 # searchTerms
@@ -34,12 +31,13 @@ https://bsky.app/profile/did:plc:p6xjmwolxplpnxsasobr2vwd/feed/aaala6yweph76
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- https://bsky.app/profile/lismiq19.bsky.social/post/3kl4u34gwbs2e
-> - "無期迷途"
-> - "PathtoNowhere"
-> - "无期迷途"
-> - "무기미도"
-> - "#PTN"
+- 無期迷途
+- PathtoNowhere
+- 无期迷途
+- 무기미도
+- #PTN
+
+
 
 # denyList
 
@@ -48,8 +46,9 @@ https://bsky.app/profile/did:plc:p6xjmwolxplpnxsasobr2vwd/feed/aaala6yweph76
 > - did:plc:1234
 > - @spamspamspam.bsky.social
 
-> - "#NoFeeds"
-> - "#Private"
+- #NoFeeds
+- #Private
+
 
 
 # safeMode
