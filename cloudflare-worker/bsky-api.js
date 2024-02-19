@@ -1,7 +1,7 @@
 import { fetchGuarded } from "./bsky-fetch-guarded";
 
-export async function appBskyFeedGetAuthorFeed(session, did, cursor = null) {
-  if (session === null) {
+export async function appBskyFeedGetAuthorFeed(accessJwt, did, cursor = null) {
+  if (accessJwt === null) {
     return null;
   }
   let params = {
@@ -16,7 +16,7 @@ export async function appBskyFeedGetAuthorFeed(session, did, cursor = null) {
     new URLSearchParams(params);
   return await fetchGuarded(url, {
     headers: {
-      Authorization: `Bearer ${session.accessJwt}`,
+      Authorization: `Bearer ${accessJwt}`,
     },
   });
 }
