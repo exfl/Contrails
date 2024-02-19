@@ -19,7 +19,7 @@ pathtonowhere
 
 > This is the description of the feed.
 
-無期迷途のポストを表示します。<br><br>➕含む：無期迷途, PathtoNowhere, 无期迷途, 무기미도, #PTN<br>➖除外：#NoFeeds, #Private<br><br>もし不安定な時はSkyFeed版も活用ください（こちらは直近7日間のみ）<br>https://bsky.app/profile/did:plc:p6xjmwolxplpnxsasobr2vwd/feed/aaala6yweph76<br><br>(* 非公式フィードです)
+無期迷途のポストを表示します。<br><br>➕含む：無期迷途, PathtoNowhere, 无期迷途, 무기미도, #PTN<br><br>もし不安定な時はSkyFeed版も活用ください（こちらは直近7日間のみ）<br>https://bsky.app/profile/did:plc:p6xjmwolxplpnxsasobr2vwd/feed/aaala6yweph76<br><br>(* 非公式フィードです)
 
 
 
@@ -46,8 +46,6 @@ pathtonowhere
 > - did:plc:1234
 > - @spamspamspam.bsky.social
 
-- #NoFeeds
-- #Private
 
 
 
